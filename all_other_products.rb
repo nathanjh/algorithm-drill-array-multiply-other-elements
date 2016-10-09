@@ -15,3 +15,4 @@ end
 # push product of remaining elements in given array to return array
 # push shifted element to end of given array
 # output return array
+# O(n) complexity
